@@ -7,6 +7,7 @@
 
     Security Fixes:
     ----------------------------
+    + Addedd CSRF cookie for clear-changelog and clear-log;
     + XSS - Reflected in install scripts;
 
 == 1.7.3
