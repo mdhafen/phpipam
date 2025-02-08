@@ -5,6 +5,10 @@
     + Backported PHP8 compatibility fixes;
     + Can not empty address fields (#4322);
 
+    Security Fixes:
+    ----------------------------
+    + XSS - Reflected in install scripts;
+
 == 1.7.3
 
     Bugfixes:
