@@ -4,6 +4,7 @@
     ----------------------------
     + Backported PHP8 compatibility fixes;
     + Can not empty address fields (#4322);
+    + jQuery error when adding an IP address range (#4350);
 
     Security Fixes:
     ----------------------------
