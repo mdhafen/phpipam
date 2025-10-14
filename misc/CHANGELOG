@@ -1,3 +1,17 @@
+== 1.7.3
+
+    Bugfixes:
+    ----------------------------
+    + Backported PHP8 compatibility fixes;
+    + Workaround PHP bug GH-16870 (#4339);
+    + Request new IP hangs (#4346);
+
+== 1.7.2
+
+    Bugfixes:
+    ----------------------------
+    + Slow UI performance with bootstrap v3.4.1 (#4311);
+
 == 1.7.1
 
     Bugfixes:
