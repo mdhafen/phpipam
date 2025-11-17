@@ -10,6 +10,7 @@
     ----------------------------
     + Addedd CSRF cookie for clear-changelog and clear-log;
     + XSS - Reflected in install scripts;
+    + XSS - Unsafe HTML allowed in Request IP Instructions;
 
 == 1.7.3
 
