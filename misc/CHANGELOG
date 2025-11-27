@@ -13,6 +13,7 @@
     + XSS - Unsafe HTML allowed in Request IP Instructions;
     + XSS - Unsafe HTML allowed in Password vault;
     + Local exposure of DB credentials via mysqldump;
+    + RCE - Authenticated remote code execution via ping_path;
 
 == 1.7.3
 
