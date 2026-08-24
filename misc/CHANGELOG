@@ -2,6 +2,7 @@
 
     Bugfixes:
     ----------------------------
+    + Dynamic authentication API endpoints returns 409 (#4640);
 
 == 1.8.2
 
